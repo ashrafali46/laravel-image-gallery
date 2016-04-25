@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\ProductImage;
+use App\GalleryImage;
 use App\Http\Requests;
 use App\Http\Requests\GalleryImageRequest;
 use Illuminate\Support\Facades\Request;
